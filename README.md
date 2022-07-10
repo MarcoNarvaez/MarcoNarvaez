@@ -3,9 +3,10 @@
 <img src="https://i.pinimg.com/564x/2f/e4/e6/2fe4e62f6fcf631c9b7cd389a38be350.jpg" style="width: 50%;">
 
 
-const Profile = {
+<p color="purple">const</p> Profile = {
     <br>
-    code: [JavaScript, Python, HTML and CSS]
+    <p color="blue">code:</p> <p color="orange">[JavaScript, Python, HTML and CSS]</p>
     <br>
-    technicalSkills: [Django, Node, React]
+    <p color="blue">technicalSkills:</p> <p color="orange">[Django, Node, React]</p>
+    <br>
 }
