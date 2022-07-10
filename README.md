@@ -1,4 +1,4 @@
-<h1 align="center" color="red">Hello there!</h1>
+<h1 align="center" style="color: red;">Hello there!</h1>
 
 <img src="https://i.pinimg.com/564x/2f/e4/e6/2fe4e62f6fcf631c9b7cd389a38be350.jpg" style="width: 50%;">
 
