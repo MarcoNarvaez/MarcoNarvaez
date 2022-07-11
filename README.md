@@ -2,8 +2,8 @@
 
 <img src="https://i.pinimg.com/564x/2f/e4/e6/2fe4e62f6fcf631c9b7cd389a38be350.jpg" width = 40%>
 
-
-<p>const Profile = {
+<p>
+    const Profile = {
     
     code: [JavaScript, Python, HTML and CSS]
     
