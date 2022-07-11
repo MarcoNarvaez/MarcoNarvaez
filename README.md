@@ -10,3 +10,5 @@
     technicalSkills: [Django, Node, React]
 }
 </p> 
+
+(https://github-readme-stats.vercel.app/api?username=MarcoNarvaez&theme=tokyonight)
