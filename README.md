@@ -11,4 +11,4 @@
 }
 </p> 
 
-(https://github-readme-stats.vercel.app/api?username=MarcoNarvaez&theme=tokyonight)
+https://github-readme-stats.vercel.app/api?username=MarcoNarvaez&theme=tokyonight
